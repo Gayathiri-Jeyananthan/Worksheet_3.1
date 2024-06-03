@@ -8,6 +8,7 @@
 .container {
   text-align: center;
   font-weight: 900;
+  color: #354154;
 }
 
 .flex-container {
@@ -30,7 +31,8 @@
 .flex-container > div:hover {
     
     transform: scale(1.1); 
-    background-color: #d9e0eb;
+    background-color: #354154;
+    color:white;
 }
 .div1 {
   text-align: center;
