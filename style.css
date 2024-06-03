@@ -30,6 +30,7 @@
 .flex-container > div:hover {
     
     transform: scale(1.1); 
+    background-color: #e0e5ef;
 }
 .div1 {
   text-align: center;
