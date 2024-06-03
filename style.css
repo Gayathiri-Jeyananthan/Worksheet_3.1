@@ -60,9 +60,9 @@
 
 .button:hover {
     
-    width:240px;
-    height:60px;
-    align-items: center;
+   transform:scale(1.1);
+    background-color: #b7c4da;
+
 }
 
 .button:active {
